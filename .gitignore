@@ -7,7 +7,17 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
+.venv/
+
+# Local environment files and cloud credentials
+.env
+.env.*
+!.env.example
+credentials.json
+*.service-account.json
+**/*secret*
+
+# Local deployment output
+output.txt
 
 temp/*.json.1
-credentials.json
