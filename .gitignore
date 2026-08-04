@@ -10,3 +10,4 @@ wheels/
 .venv
 
 temp/*.json.1
+credentials.json
