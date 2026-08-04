@@ -1,0 +1,7502 @@
+[
+  {
+    "family": "other",
+    "vcpus": 64,
+    "memoryGB": 1024,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x2idn.16xlarge",
+        "spotPrice": 0.6927,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "gpu",
+    "vcpus": 32,
+    "memoryGB": 128,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "g4dn.8xlarge",
+        "spotPrice": 0.3237,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 96,
+    "memoryGB": 192,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c6a.24xlarge",
+        "spotPrice": 0.9447,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6in.24xlarge",
+        "spotPrice": 0.6136,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6i.24xlarge",
+        "spotPrice": 0.4442,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c8g.24xlarge",
+        "spotPrice": 0.2678,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5d.24xlarge",
+        "spotPrice": 0.5695,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i.metal-24xl",
+        "spotPrice": 0.4362,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i.24xlarge",
+        "spotPrice": 0.4443,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5a.24xlarge",
+        "spotPrice": 0.8121,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c8g.metal-24xl",
+        "spotPrice": 0.2762,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "inf1.24xlarge",
+        "spotPrice": 0.4965,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5d.metal",
+        "spotPrice": 0.5485,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 64,
+    "memoryGB": 512,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "i4i.16xlarge",
+        "spotPrice": 0.7596,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r8g.16xlarge",
+        "spotPrice": 0.8117,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6g.16xlarge",
+        "spotPrice": 0.6043,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6id.16xlarge",
+        "spotPrice": 1.7548,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7g.metal",
+        "spotPrice": 0.4768,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5a.16xlarge",
+        "spotPrice": 1.1975,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7gd.16xlarge",
+        "spotPrice": 0.31,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7i.16xlarge",
+        "spotPrice": 1.455,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6gd.metal",
+        "spotPrice": 0.2565,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5n.16xlarge",
+        "spotPrice": 2.4721,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5d.16xlarge",
+        "spotPrice": 0.5352,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6i.16xlarge",
+        "spotPrice": 1.3427,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5ad.16xlarge",
+        "spotPrice": 1.3366,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7gd.metal",
+        "spotPrice": 0.3072,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6gd.16xlarge",
+        "spotPrice": 0.9533,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6a.16xlarge",
+        "spotPrice": 0.2456,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7g.16xlarge",
+        "spotPrice": 0.7441,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6g.metal",
+        "spotPrice": 0.2149,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 64,
+    "memoryGB": 976,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x1.16xlarge",
+        "spotPrice": 0.6881,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "memory-optimized",
+    "vcpus": 32,
+    "memoryGB": 256,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r5.8xlarge",
+        "spotPrice": 0.6314,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 4,
+    "memoryGB": 10.5,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5n.xlarge",
+        "spotPrice": 0.0989,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 0,
+    "memoryGB": 0,
+    "matches": [
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00966,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "L4",
+        "spotPrice": 0.2350321,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001397,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001516,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "L4",
+        "spotPrice": 0.1849981,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001088133,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01292,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.011168,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00991,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0102487,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001312,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00162106,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002485,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001216,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003669,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.004227149,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002931238,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001459,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00636,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001562,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001424,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.148,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001681,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00194355,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00849,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.004302,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000979,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0012432,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00066,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00786,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01938875,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.006,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001389,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.011664,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002933,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01091,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01423,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000647,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001184,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02086583,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000473,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "fee",
+        "spotPrice": 0.161625,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002438744,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00668,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00808,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002222,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0408,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001463,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.5074,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00571,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001484,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01691004,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.008254356,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01416,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001293,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00955,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000581,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "attached",
+        "spotPrice": 0.78,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00858,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01091,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01064123,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00591,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001363,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0112882,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00776,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00748,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "attached",
+        "spotPrice": 2.286389,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001053,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.5547,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001103,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000562,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.006543477,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000465,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00966,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.6149,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00623,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.1398,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.11,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02122096,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003082446,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00138,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001474476,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001053,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.009288119,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000437,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0094833,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.011,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00136994,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.009306,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001308987,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000574,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.009156,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0046,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 1.026,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 1.8226,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "fee",
+        "spotPrice": 0.226275,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.8732,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00354,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02050161,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000831,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "backed",
+        "spotPrice": 0.0299,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0118252,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01566481,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.004205415,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.1261,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003088036,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00815,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01092,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01821081,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000737,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00139821,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0003,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01082,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00993,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00726,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "H100",
+        "spotPrice": 2.3914,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01132,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01465,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001456,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00961,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "L4",
+        "spotPrice": 0.3377,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02299728,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 1.1736,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00958764,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0012,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0005049,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01212178,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001456,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02778383,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "H100",
+        "spotPrice": 4.3148,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0082,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00706,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001510488,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0016,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000922146,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000876,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00534,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "H100",
+        "spotPrice": 10.64061,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002166,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0012126,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01229821,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001097,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.012138,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001278,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000664,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001566016,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0151074,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00669,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "attached",
+        "spotPrice": 2.08,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 1.8540999999999999,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.25488,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00102,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.05558,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001834711,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00717,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001386936,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002215298,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0222701,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0171,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002014,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002215298,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.03058625,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00136,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002743,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "attached",
+        "spotPrice": 3.1262,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001279,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00575,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001055,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000818,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00745,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000540204,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000788,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001772518,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001753,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0080968,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003282,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00133,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00944,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.018526,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0020475,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.8936,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.2376,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0018585,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.1129,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.43,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0113,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0094557,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01119029,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01175889,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00857,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "backed",
+        "spotPrice": 0.0354,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02597845,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002898,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003069,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01669,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "fee",
+        "spotPrice": 0.3448,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0012711,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0013419,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.814,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00548,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002494,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 1.19658,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00691,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001924074,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002855,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001736,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000806,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.008,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00782,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001411,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001678,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00116,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002758,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0104868,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0086,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001880942,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00346,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.6106,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001400216,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01248,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 1.3747,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.004515,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0013424,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001894,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 1.442118,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "L4",
+        "spotPrice": 0.2167356,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00868,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01300772,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0012528,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01123,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "fee",
+        "spotPrice": 0.211406,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0163548,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01428849,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000974,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000899,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00336,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 1.5712000000000002,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "fee",
+        "spotPrice": 0.281874,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00601,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "H100",
+        "spotPrice": 8.636863,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01043,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00777,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00291,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001014361,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001847899,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00865,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.006698,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.688,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01012,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001397,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.010605,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01240416,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00165,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001632582,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00531,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002411665,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002514598,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01214,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003022,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02247983,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.9546,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000852,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00494,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001282,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00870474,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001804962,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001661,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000733,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0012711,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "attached",
+        "spotPrice": 1.0098,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00115068,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0073114,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00861,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "H100",
+        "spotPrice": 7.18587,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00252,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.14,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01071994,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.009286,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003451,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001304,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02186068,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0081,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00826,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000877059,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.009805375,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00916,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0012711,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001036317,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00073,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00174196,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000841,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01395,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 1.1736,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0101,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00371,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01582,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01215,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "H100",
+        "spotPrice": 2.1968,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.164,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000439,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00466,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01001,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00501,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001957494,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.38016,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0052,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.007675,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "L4",
+        "spotPrice": 0.1982542,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000739,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02853004,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001747,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0096,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000877059,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.8801724,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.018018,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002281,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "attached",
+        "spotPrice": 3.248,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01443,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00961,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001368,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01033,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001002,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01654227,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00726,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001438,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 2.0269,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0094833,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01146,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001578,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001023,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01538,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003806803,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00979,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0010904,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "H100",
+        "spotPrice": 2.3283,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.888,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00133,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01183,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0012711,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00108378,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "fee",
+        "spotPrice": 0.113137,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001464276,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00136,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00872,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02413136,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0108,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "L4",
+        "spotPrice": 0.1849981,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "attached",
+        "spotPrice": 0.83934,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002105822,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001510812,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01395374,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0231575,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.74,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001304,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000889,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00124,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.14,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000912,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 1.469643,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001289,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.009443972,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003638,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003192,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00637,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02379109,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001148,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "L4",
+        "spotPrice": 0.2019673,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02186068,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000989,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.3107808,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001272,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02423201,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001665,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003418669,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003724012,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001164,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00943,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01709908,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001848,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0032224,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001267,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002555,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00751,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0035,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00404268,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000677,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02065565,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00808443,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000416,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01002,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00042,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00849,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00182,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.008865431,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 2.198,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00539,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001352,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002634312,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "L4",
+        "spotPrice": 0.2034,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01296,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.25056,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0012528,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.02160042,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000785,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00103472,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001108512,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.008811393,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "H100",
+        "spotPrice": 8.395031,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001108,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0017955,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00475244,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.048,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01028,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0216184,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002751,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0077198,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00927,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0069615,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01051,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002135,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00754,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002271,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001286,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00346073,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 0.4988,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 1.9776660000000001,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00108,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0011092,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001194,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00785,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00935,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "attached",
+        "spotPrice": 2.3548,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "attached",
+        "spotPrice": 2.438233,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001739112,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.013466286,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001656,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00723,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0016632,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0241829,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01025394,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001179,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001354,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00906,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0078694,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01017,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002071349,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002203268,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00106969,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "attached",
+        "spotPrice": 0.72126,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00672,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.002247,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00541,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01063,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001064,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01302073,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0085028,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "H100",
+        "spotPrice": 9.665686,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.008085825,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.008695898,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001903646,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000797,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01029564,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01386,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003034794,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000542,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001214,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00606,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00892,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01132,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001941,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001728,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0080968,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01526125,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003727,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.005114,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000766,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001474476,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000827,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001494451,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000927,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001207,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001659,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001212,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.001397,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01604,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00259806,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.0058,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00327,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.009148,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00842,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Tesla",
+        "spotPrice": 1.3848,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "H100",
+        "spotPrice": 8.902187,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01048,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "fee",
+        "spotPrice": 0.10775,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.009658444,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01264,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "attached",
+        "spotPrice": 2.615452,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.000837,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.01493,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "fee",
+        "spotPrice": 0.169706,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.003081,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "backed",
+        "spotPrice": 0.0326,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00614,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "backed",
+        "spotPrice": 0.0528,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00889,
+        "region": "us-central1"
+      },
+      {
+        "provider": "GCP",
+        "name": "Preemptible",
+        "spotPrice": 0.00141,
+        "region": "us-central1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 32,
+    "memoryGB": 256,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r6g.8xlarge",
+        "spotPrice": 0.8721,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7gd.8xlarge",
+        "spotPrice": 0.5747,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5ad.8xlarge",
+        "spotPrice": 0.6668,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "d3.8xlarge",
+        "spotPrice": 0.4574,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7i.8xlarge",
+        "spotPrice": 0.5824,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6a.8xlarge",
+        "spotPrice": 0.4245,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7g.8xlarge",
+        "spotPrice": 0.4156,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5d.8xlarge",
+        "spotPrice": 1.202,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6gd.8xlarge",
+        "spotPrice": 0.8137,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "gr6.8xlarge",
+        "spotPrice": 0.3648,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6id.8xlarge",
+        "spotPrice": 0.5323,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5n.8xlarge",
+        "spotPrice": 1.2271,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5a.8xlarge",
+        "spotPrice": 0.566,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r8g.8xlarge",
+        "spotPrice": 0.5012,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i4i.8xlarge",
+        "spotPrice": 0.331,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6i.8xlarge",
+        "spotPrice": 0.588,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 36,
+    "memoryGB": 244,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "d2.8xlarge",
+        "spotPrice": 0.6612,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "memory-optimized",
+    "vcpus": 64,
+    "memoryGB": 512,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r5.16xlarge",
+        "spotPrice": 1.6543,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "memory-optimized",
+    "vcpus": 48,
+    "memoryGB": 384,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r5.12xlarge",
+        "spotPrice": 1.5614,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 36,
+    "memoryGB": 96,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5n.9xlarge",
+        "spotPrice": 0.966,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 4,
+    "memoryGB": 30.5,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "i2.xlarge",
+        "spotPrice": 0.0986,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r3.xlarge",
+        "spotPrice": 0.1184,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i3.xlarge",
+        "spotPrice": 0.1121,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r4.xlarge",
+        "spotPrice": 0.1347,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "d2.xlarge",
+        "spotPrice": 0.0859,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 2,
+    "memoryGB": 8,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m7gd.large",
+        "spotPrice": 0.0283,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6idn.large",
+        "spotPrice": 0.0588,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6a.large",
+        "spotPrice": 0.0263,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7g.large",
+        "spotPrice": 0.0262,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6i.large",
+        "spotPrice": 0.0409,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m8g.large",
+        "spotPrice": 0.0065,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5ad.large",
+        "spotPrice": 0.0455,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5d.large",
+        "spotPrice": 0.044,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6g.large",
+        "spotPrice": 0.0227,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m4.large",
+        "spotPrice": 0.0397,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t4g.large",
+        "spotPrice": 0.0165,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t3.large",
+        "spotPrice": 0.0281,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t3a.large",
+        "spotPrice": 0.0139,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6in.large",
+        "spotPrice": 0.0473,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i.large",
+        "spotPrice": 0.0324,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5a.large",
+        "spotPrice": 0.0241,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6id.large",
+        "spotPrice": 0.0381,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i-flex.large",
+        "spotPrice": 0.0311,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6gd.large",
+        "spotPrice": 0.0247,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 2,
+    "memoryGB": 16,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r6g.large",
+        "spotPrice": 0.0294,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5a.large",
+        "spotPrice": 0.0377,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r8g.large",
+        "spotPrice": 0.0325,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6gd.large",
+        "spotPrice": 0.027,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5d.large",
+        "spotPrice": 0.0414,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5ad.large",
+        "spotPrice": 0.0309,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i4i.large",
+        "spotPrice": 0.0485,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6id.large",
+        "spotPrice": 0.0438,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7gd.large",
+        "spotPrice": 0.0277,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7i.large",
+        "spotPrice": 0.0444,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "z1d.large",
+        "spotPrice": 0.0238,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7g.large",
+        "spotPrice": 0.0329,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i3en.large",
+        "spotPrice": 0.0288,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6a.large",
+        "spotPrice": 0.0316,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5n.large",
+        "spotPrice": 0.0716,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6i.large",
+        "spotPrice": 0.0411,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 8,
+    "memoryGB": 244,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x1e.2xlarge",
+        "spotPrice": 0.3254,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 2,
+    "memoryGB": 0.5,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "t4g.nano",
+        "spotPrice": 0.0003,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t3.nano",
+        "spotPrice": 0.0006,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t3a.nano",
+        "spotPrice": 0.0003,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 64,
+    "memoryGB": 256,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m7gd.16xlarge",
+        "spotPrice": 0.626,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i.16xlarge",
+        "spotPrice": 1.3156,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5a.16xlarge",
+        "spotPrice": 0.974,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6gd.metal",
+        "spotPrice": 0.2325,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6g.metal",
+        "spotPrice": 0.1729,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5d.16xlarge",
+        "spotPrice": 1.822,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6in.16xlarge",
+        "spotPrice": 1.1154,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7gd.metal",
+        "spotPrice": 0.253,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m8g.16xlarge",
+        "spotPrice": 0.2181,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7g.16xlarge",
+        "spotPrice": 0.5794,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6gd.16xlarge",
+        "spotPrice": 0.2335,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6i.16xlarge",
+        "spotPrice": 1.6274,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m4.16xlarge",
+        "spotPrice": 0.9635,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6a.16xlarge",
+        "spotPrice": 0.9045,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6id.16xlarge",
+        "spotPrice": 0.5578,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g5.16xlarge",
+        "spotPrice": 0.501,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6g.16xlarge",
+        "spotPrice": 0.4561,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i-flex.16xlarge",
+        "spotPrice": 0.4289,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7g.metal",
+        "spotPrice": 0.1898,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5ad.16xlarge",
+        "spotPrice": 0.8358,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6idn.16xlarge",
+        "spotPrice": 0.5986,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g6.16xlarge",
+        "spotPrice": 1.193,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 16,
+    "memoryGB": 128,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r8g.4xlarge",
+        "spotPrice": 0.3,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6id.4xlarge",
+        "spotPrice": 0.4868,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6i.4xlarge",
+        "spotPrice": 0.4114,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5n.4xlarge",
+        "spotPrice": 0.8484,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i4i.4xlarge",
+        "spotPrice": 0.487,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5d.4xlarge",
+        "spotPrice": 0.6125,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6gd.4xlarge",
+        "spotPrice": 0.4229,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5a.4xlarge",
+        "spotPrice": 0.2871,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6g.4xlarge",
+        "spotPrice": 0.2845,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7gd.4xlarge",
+        "spotPrice": 0.3618,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7g.4xlarge",
+        "spotPrice": 0.2949,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6a.4xlarge",
+        "spotPrice": 0.2538,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5ad.4xlarge",
+        "spotPrice": 0.3825,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "d3.4xlarge",
+        "spotPrice": 0.248,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "gr6.4xlarge",
+        "spotPrice": 0.2194,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7i.4xlarge",
+        "spotPrice": 0.4762,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 16,
+    "memoryGB": 512,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x2iedn.4xlarge",
+        "spotPrice": 3.4281,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 64,
+    "memoryGB": 1952,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x1e.16xlarge",
+        "spotPrice": 13.6575,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "general-purpose",
+    "vcpus": 32,
+    "memoryGB": 128,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m5.8xlarge",
+        "spotPrice": 0.8206,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 448,
+    "memoryGB": 12288,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "u-12tb1.112xlarge",
+        "spotPrice": 0,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 2,
+    "memoryGB": 3.75,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c4.large",
+        "spotPrice": 0.0432,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 16,
+    "memoryGB": 122,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r3.4xlarge",
+        "spotPrice": 0.5781,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i2.4xlarge",
+        "spotPrice": 0.4114,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "d2.4xlarge",
+        "spotPrice": 0.3341,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r4.4xlarge",
+        "spotPrice": 0.5542,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i3.4xlarge",
+        "spotPrice": 0.1468,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 192,
+    "memoryGB": 2048,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "p5.48xlarge",
+        "spotPrice": 11.9146,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "p5en.48xlarge",
+        "spotPrice": 11.3973,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 96,
+    "memoryGB": 3072,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x2iedn.24xlarge",
+        "spotPrice": 2.0656,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "gpu",
+    "vcpus": 64,
+    "memoryGB": 256,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "g4dn.16xlarge",
+        "spotPrice": 0.5035,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 128,
+    "memoryGB": 512,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "trn1.32xlarge",
+        "spotPrice": 0,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6in.32xlarge",
+        "spotPrice": 2.4768,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6id.32xlarge",
+        "spotPrice": 0.8704,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6i.metal",
+        "spotPrice": 0.7517,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6idn.32xlarge",
+        "spotPrice": 3.3553,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6in.metal",
+        "spotPrice": 0.9285,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6id.metal",
+        "spotPrice": 0.8854,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6idn.metal",
+        "spotPrice": 10.8153,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6i.32xlarge",
+        "spotPrice": 2.6775,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6a.32xlarge",
+        "spotPrice": 0.3818,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 96,
+    "memoryGB": 384,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m7i.24xlarge",
+        "spotPrice": 1.2299,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i.metal-24xl",
+        "spotPrice": 0.5472,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m8g.24xlarge",
+        "spotPrice": 0.3615,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g6.24xlarge",
+        "spotPrice": 1.0176,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g5.24xlarge",
+        "spotPrice": 1.2774,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5d.metal",
+        "spotPrice": 0.6232,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6in.24xlarge",
+        "spotPrice": 6.9395,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6i.24xlarge",
+        "spotPrice": 2.4594,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "inf2.24xlarge",
+        "spotPrice": 0.9299,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5d.24xlarge",
+        "spotPrice": 0.6369,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5ad.24xlarge",
+        "spotPrice": 0.3695,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6idn.24xlarge",
+        "spotPrice": 1.9492,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6a.24xlarge",
+        "spotPrice": 0.6101,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m8g.metal-24xl",
+        "spotPrice": 0.3503,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6id.24xlarge",
+        "spotPrice": 0.714,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5a.24xlarge",
+        "spotPrice": 0.7764,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "general-purpose",
+    "vcpus": 96,
+    "memoryGB": 384,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m5.metal",
+        "spotPrice": 0.5739,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5.24xlarge",
+        "spotPrice": 0.5633,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 128,
+    "memoryGB": 4096,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x2iedn.metal",
+        "spotPrice": 2.7524,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "x2iedn.32xlarge",
+        "spotPrice": 27.4271,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 1,
+    "memoryGB": 6,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "is4gen.medium",
+        "spotPrice": 0.0167,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 16,
+    "memoryGB": 96,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "is4gen.4xlarge",
+        "spotPrice": 0.67,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 24,
+    "memoryGB": 192,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "z1d.6xlarge",
+        "spotPrice": 0.2558,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i3en.6xlarge",
+        "spotPrice": 0.3599,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "memory-optimized",
+    "vcpus": 8,
+    "memoryGB": 64,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r5.2xlarge",
+        "spotPrice": 0.2504,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 448,
+    "memoryGB": 9216,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "u-9tb1.112xlarge",
+        "spotPrice": 0,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 2,
+    "memoryGB": 15,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r3.large",
+        "spotPrice": 0.0592,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 8,
+    "memoryGB": 256,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x2iedn.2xlarge",
+        "spotPrice": 0.1728,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 8,
+    "memoryGB": 21,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5n.2xlarge",
+        "spotPrice": 0.2346,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 4,
+    "memoryGB": 128,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x2iedn.xlarge",
+        "spotPrice": 0.1382,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 2,
+    "memoryGB": 12,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "is4gen.large",
+        "spotPrice": 0.0355,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "compute-optimized",
+    "vcpus": 72,
+    "memoryGB": 144,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5.18xlarge",
+        "spotPrice": 0.3629,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 96,
+    "memoryGB": 1536,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x2idn.24xlarge",
+        "spotPrice": 1.1547,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "burstable",
+    "vcpus": 1,
+    "memoryGB": 1,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "t2.micro",
+        "spotPrice": 0.0014,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "compute-optimized",
+    "vcpus": 48,
+    "memoryGB": 96,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5.12xlarge",
+        "spotPrice": 0.4821,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "burstable",
+    "vcpus": 4,
+    "memoryGB": 16,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "t2.xlarge",
+        "spotPrice": 0.0604,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 2,
+    "memoryGB": 5.25,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5n.large",
+        "spotPrice": 0.0447,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 2,
+    "memoryGB": 15.25,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "i3.large",
+        "spotPrice": 0.0385,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r4.large",
+        "spotPrice": 0.05,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 8,
+    "memoryGB": 15,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c4.2xlarge",
+        "spotPrice": 0.2078,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "gpu",
+    "vcpus": 4,
+    "memoryGB": 16,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "g4dn.xlarge",
+        "spotPrice": 0.1711,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 48,
+    "memoryGB": 192,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m7i-flex.12xlarge",
+        "spotPrice": 0.2498,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6idn.12xlarge",
+        "spotPrice": 0.4935,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6gd.12xlarge",
+        "spotPrice": 0.5801,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5ad.12xlarge",
+        "spotPrice": 0.808,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6id.12xlarge",
+        "spotPrice": 0.3137,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7gd.12xlarge",
+        "spotPrice": 0.5372,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6in.12xlarge",
+        "spotPrice": 0.6491,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7g.12xlarge",
+        "spotPrice": 0.4457,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g5.12xlarge",
+        "spotPrice": 1.7447,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m8g.12xlarge",
+        "spotPrice": 0.154,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6g.12xlarge",
+        "spotPrice": 0.694,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g6.12xlarge",
+        "spotPrice": 0.6545,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5d.12xlarge",
+        "spotPrice": 0.7476,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6i.12xlarge",
+        "spotPrice": 0.9077,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5a.12xlarge",
+        "spotPrice": 0.5647,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i.12xlarge",
+        "spotPrice": 0.3342,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6a.12xlarge",
+        "spotPrice": 0.5186,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 8,
+    "memoryGB": 32,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m5a.2xlarge",
+        "spotPrice": 0.1494,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6id.2xlarge",
+        "spotPrice": 0.2257,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g5.2xlarge",
+        "spotPrice": 0.4633,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6a.2xlarge",
+        "spotPrice": 0.1212,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i.2xlarge",
+        "spotPrice": 0.1567,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i-flex.2xlarge",
+        "spotPrice": 0.1836,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5ad.2xlarge",
+        "spotPrice": 0.2258,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t3.2xlarge",
+        "spotPrice": 0.107,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t3a.2xlarge",
+        "spotPrice": 0.0782,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t4g.2xlarge",
+        "spotPrice": 0.0809,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m4.2xlarge",
+        "spotPrice": 0.2005,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g6.2xlarge",
+        "spotPrice": 0.3363,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6idn.2xlarge",
+        "spotPrice": 0.1752,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m8g.2xlarge",
+        "spotPrice": 0.0287,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5d.2xlarge",
+        "spotPrice": 0.2571,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7g.2xlarge",
+        "spotPrice": 0.1169,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6g.2xlarge",
+        "spotPrice": 0.1182,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7gd.2xlarge",
+        "spotPrice": 0.1282,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6i.2xlarge",
+        "spotPrice": 0.1747,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6gd.2xlarge",
+        "spotPrice": 0.138,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6in.2xlarge",
+        "spotPrice": 0.1706,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 2,
+    "memoryGB": 4,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5d.large",
+        "spotPrice": 0.0353,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6i.large",
+        "spotPrice": 0.0285,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t4g.medium",
+        "spotPrice": 0.0078,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i.large",
+        "spotPrice": 0.0294,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6g.large",
+        "spotPrice": 0.0199,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7gd.large",
+        "spotPrice": 0.0149,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t3a.medium",
+        "spotPrice": 0.012,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t3.medium",
+        "spotPrice": 0.0187,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "a1.large",
+        "spotPrice": 0.051,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i-flex.large",
+        "spotPrice": 0.0247,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c8g.large",
+        "spotPrice": 0.006,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6in.large",
+        "spotPrice": 0.0482,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7g.large",
+        "spotPrice": 0.0267,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gn.large",
+        "spotPrice": 0.0246,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gd.large",
+        "spotPrice": 0.0164,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5a.large",
+        "spotPrice": 0.0219,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6a.large",
+        "spotPrice": 0.0206,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 128,
+    "memoryGB": 1024,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r6a.32xlarge",
+        "spotPrice": 0.5085,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i4i.metal",
+        "spotPrice": 1.2931,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6id.32xlarge",
+        "spotPrice": 1.0312,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i4i.32xlarge",
+        "spotPrice": 1.3458,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6id.metal",
+        "spotPrice": 1.0448,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6i.metal",
+        "spotPrice": 0.8583,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6i.32xlarge",
+        "spotPrice": 0.9756,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 128,
+    "memoryGB": 1952,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x1.32xlarge",
+        "spotPrice": 1.4108,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 192,
+    "memoryGB": 1536,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r6a.metal",
+        "spotPrice": 1.7285,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7i.metal-48xl",
+        "spotPrice": 1.6392,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6a.48xlarge",
+        "spotPrice": 0.9184,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r8g.48xlarge",
+        "spotPrice": 0.8363,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r8g.metal-48xl",
+        "spotPrice": 0.8174,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7i.48xlarge",
+        "spotPrice": 9.7926,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "compute-optimized",
+    "vcpus": 2,
+    "memoryGB": 4,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5.large",
+        "spotPrice": 0.0389,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "compute-optimized",
+    "vcpus": 36,
+    "memoryGB": 72,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5.9xlarge",
+        "spotPrice": 0.4656,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 72,
+    "memoryGB": 192,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5n.18xlarge",
+        "spotPrice": 1.4023,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5n.metal",
+        "spotPrice": 0.474,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 40,
+    "memoryGB": 160,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m4.10xlarge",
+        "spotPrice": 0.585,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 32,
+    "memoryGB": 1024,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x2iedn.8xlarge",
+        "spotPrice": 0.9276,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 32,
+    "memoryGB": 64,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c7g.8xlarge",
+        "spotPrice": 0.2742,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6i.8xlarge",
+        "spotPrice": 0.5246,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i-flex.8xlarge",
+        "spotPrice": 0.2501,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c8g.8xlarge",
+        "spotPrice": 0.0998,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i.8xlarge",
+        "spotPrice": 0.606,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6in.8xlarge",
+        "spotPrice": 0.9089,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6a.8xlarge",
+        "spotPrice": 0.3222,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7gd.8xlarge",
+        "spotPrice": 0.336,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5a.8xlarge",
+        "spotPrice": 0.3582,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gn.8xlarge",
+        "spotPrice": 0.9582,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6g.8xlarge",
+        "spotPrice": 0.2817,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gd.8xlarge",
+        "spotPrice": 0.2959,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 4,
+    "memoryGB": 8,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c6in.xlarge",
+        "spotPrice": 0.0791,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "inf1.xlarge",
+        "spotPrice": 0.0673,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gn.xlarge",
+        "spotPrice": 0.0883,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7g.xlarge",
+        "spotPrice": 0.0458,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6g.xlarge",
+        "spotPrice": 0.037,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i.xlarge",
+        "spotPrice": 0.0623,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5a.xlarge",
+        "spotPrice": 0.0517,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i-flex.xlarge",
+        "spotPrice": 0.0737,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gd.xlarge",
+        "spotPrice": 0.044,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7gd.xlarge",
+        "spotPrice": 0.0608,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "a1.xlarge",
+        "spotPrice": 0.1016,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6a.xlarge",
+        "spotPrice": 0.0383,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5d.xlarge",
+        "spotPrice": 0.0863,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6i.xlarge",
+        "spotPrice": 0.069,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c8g.xlarge",
+        "spotPrice": 0.0116,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "general-purpose",
+    "vcpus": 4,
+    "memoryGB": 16,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m5.xlarge",
+        "spotPrice": 0.0848,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "compute-optimized",
+    "vcpus": 4,
+    "memoryGB": 8,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5.xlarge",
+        "spotPrice": 0.0722,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "burstable",
+    "vcpus": 2,
+    "memoryGB": 4,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "t2.medium",
+        "spotPrice": 0.0188,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 4,
+    "memoryGB": 32,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r6a.xlarge",
+        "spotPrice": 0.0548,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6id.xlarge",
+        "spotPrice": 0.1169,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5a.xlarge",
+        "spotPrice": 0.0639,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6i.xlarge",
+        "spotPrice": 0.1043,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6gd.xlarge",
+        "spotPrice": 0.0877,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7gd.xlarge",
+        "spotPrice": 0.085,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "z1d.xlarge",
+        "spotPrice": 0.1183,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5d.xlarge",
+        "spotPrice": 0.1063,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "d3.xlarge",
+        "spotPrice": 0.1399,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7g.xlarge",
+        "spotPrice": 0.063,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7i.xlarge",
+        "spotPrice": 0.1087,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5ad.xlarge",
+        "spotPrice": 0.0887,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i3en.xlarge",
+        "spotPrice": 0.2001,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5n.xlarge",
+        "spotPrice": 0.1434,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r8g.xlarge",
+        "spotPrice": 0.0842,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6g.xlarge",
+        "spotPrice": 0.0596,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i4i.xlarge",
+        "spotPrice": 0.1073,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 32,
+    "memoryGB": 976,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x1e.8xlarge",
+        "spotPrice": 0.6891,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 16,
+    "memoryGB": 42,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5n.4xlarge",
+        "spotPrice": 0.5042,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 224,
+    "memoryGB": 6144,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "u-6tb1.56xlarge",
+        "spotPrice": 0,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "general-purpose",
+    "vcpus": 16,
+    "memoryGB": 64,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m5.4xlarge",
+        "spotPrice": 0.3243,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 36,
+    "memoryGB": 72,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5d.9xlarge",
+        "spotPrice": 0.6453,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 72,
+    "memoryGB": 512,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "i3.metal",
+        "spotPrice": 0.5672,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 16,
+    "memoryGB": 32,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c6i.4xlarge",
+        "spotPrice": 0.3193,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5a.4xlarge",
+        "spotPrice": 0.1949,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7g.4xlarge",
+        "spotPrice": 0.116,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gn.4xlarge",
+        "spotPrice": 0.0768,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5d.4xlarge",
+        "spotPrice": 0.3802,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i-flex.4xlarge",
+        "spotPrice": 0.1621,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "a1.metal",
+        "spotPrice": 0.4065,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6a.4xlarge",
+        "spotPrice": 0.1526,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i.4xlarge",
+        "spotPrice": 0.284,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "a1.4xlarge",
+        "spotPrice": 0.408,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6in.4xlarge",
+        "spotPrice": 0.3036,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c8g.4xlarge",
+        "spotPrice": 0.0549,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6g.4xlarge",
+        "spotPrice": 0.1184,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7gd.4xlarge",
+        "spotPrice": 0.2497,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gd.4xlarge",
+        "spotPrice": 0.1552,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 1,
+    "memoryGB": 8,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r6g.medium",
+        "spotPrice": 0.0168,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6gd.medium",
+        "spotPrice": 0.0107,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r8g.medium",
+        "spotPrice": 0.0044,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7g.medium",
+        "spotPrice": 0.0189,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7gd.medium",
+        "spotPrice": 0.0224,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 4,
+    "memoryGB": 24,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "is4gen.xlarge",
+        "spotPrice": 0.0877,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "compute-optimized",
+    "vcpus": 16,
+    "memoryGB": 32,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5.4xlarge",
+        "spotPrice": 0.1836,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 32,
+    "memoryGB": 128,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m5d.8xlarge",
+        "spotPrice": 0.9096,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m8g.8xlarge",
+        "spotPrice": 0.1042,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i.8xlarge",
+        "spotPrice": 0.5796,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5ad.8xlarge",
+        "spotPrice": 0.497,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "inf2.8xlarge",
+        "spotPrice": 0.6648,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g6.8xlarge",
+        "spotPrice": 0.4069,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6i.8xlarge",
+        "spotPrice": 0.7751,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7gd.8xlarge",
+        "spotPrice": 0.3924,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7g.8xlarge",
+        "spotPrice": 0.4046,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5a.8xlarge",
+        "spotPrice": 0.4434,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6g.8xlarge",
+        "spotPrice": 0.3142,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6idn.8xlarge",
+        "spotPrice": 1.0193,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6gd.8xlarge",
+        "spotPrice": 0.3111,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i-flex.8xlarge",
+        "spotPrice": 0.4605,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g5.8xlarge",
+        "spotPrice": 0.8541,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6id.8xlarge",
+        "spotPrice": 0.211,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6a.8xlarge",
+        "spotPrice": 0.4472,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6in.8xlarge",
+        "spotPrice": 0.8415,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 8,
+    "memoryGB": 61,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "i2.2xlarge",
+        "spotPrice": 0.194,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "d2.2xlarge",
+        "spotPrice": 0.1897,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r3.2xlarge",
+        "spotPrice": 0.323,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r4.2xlarge",
+        "spotPrice": 0.2492,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i3.2xlarge",
+        "spotPrice": 0.2725,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "burstable",
+    "vcpus": 8,
+    "memoryGB": 32,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "t2.2xlarge",
+        "spotPrice": 0.1005,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "memory-optimized",
+    "vcpus": 2,
+    "memoryGB": 16,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r5.large",
+        "spotPrice": 0.0667,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "memory-optimized",
+    "vcpus": 16,
+    "memoryGB": 128,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r5.4xlarge",
+        "spotPrice": 0.4311,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 128,
+    "memoryGB": 2048,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x2idn.metal",
+        "spotPrice": 1.4176,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "x2idn.32xlarge",
+        "spotPrice": 1.4274,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "gpu",
+    "vcpus": 8,
+    "memoryGB": 32,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "g4dn.2xlarge",
+        "spotPrice": 0.2381,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "burstable",
+    "vcpus": 1,
+    "memoryGB": 2,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "t2.small",
+        "spotPrice": 0.0063,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 1,
+    "memoryGB": 2,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c7gd.medium",
+        "spotPrice": 0.0128,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "a1.medium",
+        "spotPrice": 0.0255,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gn.medium",
+        "spotPrice": 0.0067,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7g.medium",
+        "spotPrice": 0.0107,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c8g.medium",
+        "spotPrice": 0.0028,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6g.medium",
+        "spotPrice": 0.01,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gd.medium",
+        "spotPrice": 0.0027,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 2,
+    "memoryGB": 1,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "t4g.micro",
+        "spotPrice": 0.0016,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t3.micro",
+        "spotPrice": 0.0034,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t3a.micro",
+        "spotPrice": 0.002,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "memory-optimized",
+    "vcpus": 4,
+    "memoryGB": 32,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r5.xlarge",
+        "spotPrice": 0.1112,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 192,
+    "memoryGB": 384,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c8g.48xlarge",
+        "spotPrice": 0.57,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6a.48xlarge",
+        "spotPrice": 1.2196,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c8g.metal-48xl",
+        "spotPrice": 0.5739,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6a.metal",
+        "spotPrice": 0.9362,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i.metal-48xl",
+        "spotPrice": 1.0017,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i.48xlarge",
+        "spotPrice": 4.1558,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "gpu",
+    "vcpus": 16,
+    "memoryGB": 64,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "g4dn.4xlarge",
+        "spotPrice": 0.5047,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 12,
+    "memoryGB": 96,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "i3en.3xlarge",
+        "spotPrice": 0.4955,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "z1d.3xlarge",
+        "spotPrice": 0.2594,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 2,
+    "memoryGB": 2,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "t3a.small",
+        "spotPrice": 0.0043,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t4g.small",
+        "spotPrice": 0.0039,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t3.small",
+        "spotPrice": 0.0074,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 192,
+    "memoryGB": 768,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "inf2.48xlarge",
+        "spotPrice": 1.9296,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m8g.metal-48xl",
+        "spotPrice": 0.624,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g6.48xlarge",
+        "spotPrice": 1.7585,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6a.metal",
+        "spotPrice": 1.1742,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i.48xlarge",
+        "spotPrice": 10.1808,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m8g.48xlarge",
+        "spotPrice": 0.7039,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i.metal-48xl",
+        "spotPrice": 1.0948,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6a.48xlarge",
+        "spotPrice": 1.323,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g5.48xlarge",
+        "spotPrice": 2.3648,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "compute-optimized",
+    "vcpus": 96,
+    "memoryGB": 192,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5.24xlarge",
+        "spotPrice": 0.5231,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5.metal",
+        "spotPrice": 0.4716,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 448,
+    "memoryGB": 6144,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "u-6tb1.112xlarge",
+        "spotPrice": 0,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "general-purpose",
+    "vcpus": 2,
+    "memoryGB": 8,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m5.large",
+        "spotPrice": 0.0435,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 16,
+    "memoryGB": 30,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c4.4xlarge",
+        "spotPrice": 0.3554,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 128,
+    "memoryGB": 256,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c6i.32xlarge",
+        "spotPrice": 0.5504,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6a.32xlarge",
+        "spotPrice": 0.3017,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6i.metal",
+        "spotPrice": 0.5605,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6in.32xlarge",
+        "spotPrice": 0.8244,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6in.metal",
+        "spotPrice": 0.7583,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 16,
+    "memoryGB": 488,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x1e.4xlarge",
+        "spotPrice": 0.3892,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "burstable",
+    "vcpus": 1,
+    "memoryGB": 0.5,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "t2.nano",
+        "spotPrice": 0,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 64,
+    "memoryGB": 128,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c6gd.metal",
+        "spotPrice": 0.1593,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6g.16xlarge",
+        "spotPrice": 0.3763,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6a.16xlarge",
+        "spotPrice": 0.5685,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gn.16xlarge",
+        "spotPrice": 0.29,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7gd.16xlarge",
+        "spotPrice": 0.2076,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7g.16xlarge",
+        "spotPrice": 0.5231,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i-flex.16xlarge",
+        "spotPrice": 0.4769,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6in.16xlarge",
+        "spotPrice": 1.6935,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6i.16xlarge",
+        "spotPrice": 0.3232,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i.16xlarge",
+        "spotPrice": 0.606,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gd.16xlarge",
+        "spotPrice": 0.4568,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7g.metal",
+        "spotPrice": 0.1908,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5a.16xlarge",
+        "spotPrice": 0.7438,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7gd.metal",
+        "spotPrice": 0.2007,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6g.metal",
+        "spotPrice": 0.1408,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c8g.16xlarge",
+        "spotPrice": 0.1792,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "gpu",
+    "vcpus": 96,
+    "memoryGB": 384,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "g4dn.metal",
+        "spotPrice": 3.9534,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "burstable",
+    "vcpus": 2,
+    "memoryGB": 8,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "t2.large",
+        "spotPrice": 0.0307,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 64,
+    "memoryGB": 2048,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x2iedn.16xlarge",
+        "spotPrice": 13.7134,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 32,
+    "memoryGB": 244,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r3.8xlarge",
+        "spotPrice": 0.9189,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r4.8xlarge",
+        "spotPrice": 0.8438,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i3.8xlarge",
+        "spotPrice": 0.2863,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i2.8xlarge",
+        "spotPrice": 0.796,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 64,
+    "memoryGB": 488,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r4.16xlarge",
+        "spotPrice": 1.5224,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i3.16xlarge",
+        "spotPrice": 0.5664,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 48,
+    "memoryGB": 384,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r8g.12xlarge",
+        "spotPrice": 0.5958,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i3en.12xlarge",
+        "spotPrice": 0.6608,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5n.12xlarge",
+        "spotPrice": 1.8372,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6id.12xlarge",
+        "spotPrice": 0.931,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5ad.12xlarge",
+        "spotPrice": 0.995,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6a.12xlarge",
+        "spotPrice": 0.5526,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5a.12xlarge",
+        "spotPrice": 0.8597,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7i.12xlarge",
+        "spotPrice": 1.2208,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6g.12xlarge",
+        "spotPrice": 0.4581,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "z1d.metal",
+        "spotPrice": 1.7273,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "z1d.12xlarge",
+        "spotPrice": 2.0128,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i4i.12xlarge",
+        "spotPrice": 0.4835,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6i.12xlarge",
+        "spotPrice": 1.6113,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7gd.12xlarge",
+        "spotPrice": 0.771,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6gd.12xlarge",
+        "spotPrice": 0.9394,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7g.12xlarge",
+        "spotPrice": 0.4507,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5d.12xlarge",
+        "spotPrice": 0.4492,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 8,
+    "memoryGB": 16,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c7i.2xlarge",
+        "spotPrice": 0.1269,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c8g.2xlarge",
+        "spotPrice": 0.0235,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5d.2xlarge",
+        "spotPrice": 0.2155,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i-flex.2xlarge",
+        "spotPrice": 0.1925,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6i.2xlarge",
+        "spotPrice": 0.1371,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "inf1.2xlarge",
+        "spotPrice": 0.1099,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6in.2xlarge",
+        "spotPrice": 0.3031,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5a.2xlarge",
+        "spotPrice": 0.0979,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "a1.2xlarge",
+        "spotPrice": 0.204,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7g.2xlarge",
+        "spotPrice": 0.0799,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7gd.2xlarge",
+        "spotPrice": 0.104,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gn.2xlarge",
+        "spotPrice": 0.2002,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6a.2xlarge",
+        "spotPrice": 0.0964,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gd.2xlarge",
+        "spotPrice": 0.0581,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6g.2xlarge",
+        "spotPrice": 0.0684,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 48,
+    "memoryGB": 96,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5a.12xlarge",
+        "spotPrice": 0.5349,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6g.12xlarge",
+        "spotPrice": 0.3999,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6in.12xlarge",
+        "spotPrice": 1.5061,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c5d.12xlarge",
+        "spotPrice": 0.7769,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i-flex.12xlarge",
+        "spotPrice": 0.5326,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gn.12xlarge",
+        "spotPrice": 0.7186,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6a.12xlarge",
+        "spotPrice": 0.6224,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c8g.12xlarge",
+        "spotPrice": 0.1454,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7gd.12xlarge",
+        "spotPrice": 0.6028,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7i.12xlarge",
+        "spotPrice": 0.6195,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c7g.12xlarge",
+        "spotPrice": 0.3964,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6i.12xlarge",
+        "spotPrice": 0.6208,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "c6gd.12xlarge",
+        "spotPrice": 0.3996,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 128,
+    "memoryGB": 3904,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x1e.32xlarge",
+        "spotPrice": 5.6336,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 4,
+    "memoryGB": 16,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m5d.xlarge",
+        "spotPrice": 0.0883,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6id.xlarge",
+        "spotPrice": 0.0867,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6gd.xlarge",
+        "spotPrice": 0.0651,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7gd.xlarge",
+        "spotPrice": 0.0863,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t3.xlarge",
+        "spotPrice": 0.0756,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6g.xlarge",
+        "spotPrice": 0.0474,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m4.xlarge",
+        "spotPrice": 0.1094,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6idn.xlarge",
+        "spotPrice": 0.1052,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g6.xlarge",
+        "spotPrice": 0.2802,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m8g.xlarge",
+        "spotPrice": 0.0135,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t4g.xlarge",
+        "spotPrice": 0.0421,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7g.xlarge",
+        "spotPrice": 0.0487,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "inf2.xlarge",
+        "spotPrice": 0.1223,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5ad.xlarge",
+        "spotPrice": 0.0893,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g5.xlarge",
+        "spotPrice": 0.3658,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6i.xlarge",
+        "spotPrice": 0.0791,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i.xlarge",
+        "spotPrice": 0.0842,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6in.xlarge",
+        "spotPrice": 0.0867,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5a.xlarge",
+        "spotPrice": 0.055,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i-flex.xlarge",
+        "spotPrice": 0.0697,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "t3a.xlarge",
+        "spotPrice": 0.0323,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6a.xlarge",
+        "spotPrice": 0.0773,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 1,
+    "memoryGB": 4,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m6gd.medium",
+        "spotPrice": 0.0054,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7gd.medium",
+        "spotPrice": 0.0122,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7g.medium",
+        "spotPrice": 0.0142,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m8g.medium",
+        "spotPrice": 0.0036,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6g.medium",
+        "spotPrice": 0.0118,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 8,
+    "memoryGB": 48,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "is4gen.2xlarge",
+        "spotPrice": 0.4837,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 4,
+    "memoryGB": 122,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "x1e.xlarge",
+        "spotPrice": 0.0872,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 16,
+    "memoryGB": 64,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "g5.4xlarge",
+        "spotPrice": 0.2056,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6gd.4xlarge",
+        "spotPrice": 0.3071,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7g.4xlarge",
+        "spotPrice": 0.2089,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5a.4xlarge",
+        "spotPrice": 0.2305,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m4.4xlarge",
+        "spotPrice": 0.3714,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5ad.4xlarge",
+        "spotPrice": 0.3553,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6idn.4xlarge",
+        "spotPrice": 0.353,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m8g.4xlarge",
+        "spotPrice": 0.0547,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6a.4xlarge",
+        "spotPrice": 0.2243,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6g.4xlarge",
+        "spotPrice": 0.2478,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i-flex.4xlarge",
+        "spotPrice": 0.2407,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6in.4xlarge",
+        "spotPrice": 0.3893,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6i.4xlarge",
+        "spotPrice": 0.374,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7gd.4xlarge",
+        "spotPrice": 0.256,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m6id.4xlarge",
+        "spotPrice": 0.372,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m5d.4xlarge",
+        "spotPrice": 0.3618,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "g6.4xlarge",
+        "spotPrice": 0.1614,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "m7i.4xlarge",
+        "spotPrice": 0.3046,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "general-purpose",
+    "vcpus": 48,
+    "memoryGB": 192,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m5.12xlarge",
+        "spotPrice": 0.7498,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "general-purpose",
+    "vcpus": 64,
+    "memoryGB": 256,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m5.16xlarge",
+        "spotPrice": 0.3301,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "gpu",
+    "vcpus": 48,
+    "memoryGB": 192,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "g4dn.12xlarge",
+        "spotPrice": 1.5984,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 12,
+    "memoryGB": 32,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "mac1.metal",
+        "spotPrice": 0,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 72,
+    "memoryGB": 144,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5d.18xlarge",
+        "spotPrice": 0.7844,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 4,
+    "memoryGB": 7.5,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c4.xlarge",
+        "spotPrice": 0.1002,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "compute-optimized",
+    "vcpus": 8,
+    "memoryGB": 16,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c5.2xlarge",
+        "spotPrice": 0.1409,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 96,
+    "memoryGB": 768,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r5ad.24xlarge",
+        "spotPrice": 1.9861,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r8g.metal-24xl",
+        "spotPrice": 0.4413,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i3en.24xlarge",
+        "spotPrice": 1.4639,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i4i.24xlarge",
+        "spotPrice": 1.049,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6i.24xlarge",
+        "spotPrice": 0.6439,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7i.metal-24xl",
+        "spotPrice": 0.709,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6id.24xlarge",
+        "spotPrice": 0.8171,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r8g.24xlarge",
+        "spotPrice": 0.8246,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5d.24xlarge",
+        "spotPrice": 2.9917,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5n.24xlarge",
+        "spotPrice": 0.8109,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6a.24xlarge",
+        "spotPrice": 1.1365,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7i.24xlarge",
+        "spotPrice": 1.8813,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5d.metal",
+        "spotPrice": 0.8345,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5a.24xlarge",
+        "spotPrice": 1.7057,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5n.metal",
+        "spotPrice": 0.8763,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i3en.metal",
+        "spotPrice": 1.5271,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 8,
+    "memoryGB": 64,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r6a.2xlarge",
+        "spotPrice": 0.1468,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6id.2xlarge",
+        "spotPrice": 0.2315,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5a.2xlarge",
+        "spotPrice": 0.1986,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "z1d.2xlarge",
+        "spotPrice": 0.3061,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6gd.2xlarge",
+        "spotPrice": 0.1671,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7g.2xlarge",
+        "spotPrice": 0.1401,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "d3.2xlarge",
+        "spotPrice": 0.2566,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i4i.2xlarge",
+        "spotPrice": 0.223,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7i.2xlarge",
+        "spotPrice": 0.2326,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5ad.2xlarge",
+        "spotPrice": 0.224,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5d.2xlarge",
+        "spotPrice": 0.2901,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r7gd.2xlarge",
+        "spotPrice": 0.1781,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5n.2xlarge",
+        "spotPrice": 0.5046,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r8g.2xlarge",
+        "spotPrice": 0.1526,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "i3en.2xlarge",
+        "spotPrice": 0.3775,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6i.2xlarge",
+        "spotPrice": 0.2445,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r6g.2xlarge",
+        "spotPrice": 0.1416,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "memory-optimized",
+    "vcpus": 96,
+    "memoryGB": 768,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "r5.24xlarge",
+        "spotPrice": 0.7207,
+        "region": "ap-south-1"
+      },
+      {
+        "provider": "AWS",
+        "name": "r5.metal",
+        "spotPrice": 0.667,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 36,
+    "memoryGB": 60,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "c4.8xlarge",
+        "spotPrice": 0.6473,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 96,
+    "memoryGB": 1152,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "p4d.24xlarge",
+        "spotPrice": 0,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 24,
+    "memoryGB": 48,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "inf1.6xlarge",
+        "spotPrice": 0.3127,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "general-purpose",
+    "vcpus": 8,
+    "memoryGB": 32,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "m5.2xlarge",
+        "spotPrice": 0.1946,
+        "region": "ap-south-1"
+      }
+    ]
+  },
+  {
+    "family": "other",
+    "vcpus": 32,
+    "memoryGB": 192,
+    "matches": [
+      {
+        "provider": "AWS",
+        "name": "is4gen.8xlarge",
+        "spotPrice": 0.5788,
+        "region": "ap-south-1"
+      }
+    ]
+  }
+]
